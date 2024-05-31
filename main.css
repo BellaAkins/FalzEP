@@ -60,19 +60,19 @@ body .container .launch-time {
   justify-content: center;
   align-items: center;
   border: 2px solid #a06d42;
-  margin: 20px;
+  margin: 18px;
 }
 body .container .launch-time div {
   margin: 18px;
 }
 body .container .launch-time p {
-  font-size: 60px;
+  font-size: 40px;
   margin-bottom: -16px;
 }
 body .container .launch-time span {
   color: #7aaeba;
-  font-size: 20px;
-  font-weight: 600;
+  font-size: 16px;
+  font-weight: 500;
   font-family: oldenburg;
   margin-top: 3em;
 }
